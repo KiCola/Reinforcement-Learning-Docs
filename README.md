@@ -1,4 +1,5 @@
-# Reinforcement-Learning---Notes
+# Reinforcement-Learning-Docs
+
 A repo for Reinforcement Learning study notes.
 
 ## 目录/架构
@@ -29,6 +30,18 @@ A repo for Reinforcement Learning study notes.
 └── README.md
 
 ```
+
+
+
+## 使用
+
+```bash
+git clone https://github.com/KiCola/Reinforcement-Learning-Docs.git
+```
+
+or
+
+Download 整个zip
 
 
 
