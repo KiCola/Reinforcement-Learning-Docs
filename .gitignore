@@ -1,1 +1,52 @@
-Docs/
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg
+*.egg-info/
+dist/
+build/
+
+# 虚拟环境
+.venv/
+venv/
+env/
+.conda/
+
+# 训练产物
+*.png
+*.jpg
+*.mp4
+runs/           # TensorBoard 日志
+checkpoints/
+*.pth
+*.pt
+wandb/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
+
+# 数据集
+data/
+datasets/
+*.h5
+*.hdf5
+
+# 大文件
+/Docs

@@ -1,0 +1,29 @@
+# 深度强化学习环境依赖
+# 安装：pip install -r requirements.txt
+
+# 核心框架
+torch>=2.0.0
+numpy>=1.24.0
+
+# RL 环境
+gymnasium>=0.29.0
+pygame>=2.0.0          # 环境渲染
+
+# 可视化
+tensorboard>=2.13.0
+matplotlib>=3.7.0
+pandas>=2.0.0
+
+# 工具
+tqdm>=4.65.0
+
+# 可选（参考对比）
+# stable-baselines3>=2.0.0
+# wandb>=0.15.0
+
+# 可选（Atari）
+# ale-py>=0.8.0
+# gymnasium[atari]
+
+# 可选（MuJoCo 连续控制）
+# gymnasium[mujoco]
