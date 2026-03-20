@@ -64,8 +64,8 @@ python exercises/phase1_basics/q_learning_sarsa.py
 
 ## 仓库结构
 
-```
-deep-rl-from-scratch/
+```bash
+Reinforcement-Learning-Docs/
 │
 ├── exercises/                      # 练习文件（含 TODO，自己填写）
 │   ├── phase1_basics/
@@ -82,6 +82,7 @@ deep-rl-from-scratch/
 │       ├── logger.py               # TensorBoard 日志（已完成）
 │       └── wrappers.py             # 环境 Wrapper（已完成）
 │
+├── Docs/                      		# 放了很多学习资料
 ├── solutions/                      # 标准答案 ⚠️ 做完再看！
 │   ├── phase1_basics/
 │   ├── phase2_dqn/

@@ -18,12 +18,12 @@ pandas>=2.0.0
 tqdm>=4.65.0
 
 # 可选（参考对比）
-# stable-baselines3>=2.0.0
-# wandb>=0.15.0
+stable-baselines3>=2.0.0
+wandb>=0.15.0
 
 # 可选（Atari）
 # ale-py>=0.8.0
-# gymnasium[atari]
+gymnasium[atari]
 
 # 可选（MuJoCo 连续控制）
-# gymnasium[mujoco]
+gymnasium[mujoco]

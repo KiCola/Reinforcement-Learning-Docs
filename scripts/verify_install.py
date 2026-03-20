@@ -32,7 +32,7 @@ check("matplotlib", lambda: __import__("matplotlib"))
 print("\n[2] RL 环境")
 check("gymnasium", lambda: __import__("gymnasium"))
 check("CartPole-v1", lambda: __import__("gymnasium").make("CartPole-v1"))
-check("LunarLander-v2", lambda: __import__("gymnasium").make("LunarLander-v2"))
+check("LunarLander-v3", lambda: __import__("gymnasium").make("LunarLander-v3"))
 check("Pendulum-v1", lambda: __import__("gymnasium").make("Pendulum-v1"))
 
 # --- 可视化 ---
