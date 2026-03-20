@@ -32,8 +32,8 @@
 ### 1. 克隆仓库
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/deep-rl-from-scratch.git
-cd deep-rl-from-scratch
+git clone https://github.com/KiCola/Reinforcement-Learning-Docs.git
+cd Reinforcement-Learning-Docs
 ```
 
 ### 2. 创建环境
